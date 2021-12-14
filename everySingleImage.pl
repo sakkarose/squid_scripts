@@ -1,3 +1,5 @@
+#!/usr/bin/perl -w
+
 use IO::Handle;
 use POSIX strftime;
 
